@@ -2,3 +2,7 @@ Prrotocolo: https
 Domínio: www.nytimes.com
 Caminho: /2023/08/28/s/2023/08/28/science/
 Parâmetro: Não há
+
+http: É um protocolo que determina como os dados do serviço serão transmitidos.
+url: é a identificação de recursos. É um caminho que determina todo recurso presente a rede.
+html: é uma linguagem responsável por fazer a estrturação de documnetos de hiper texto.
